@@ -1,0 +1,21 @@
+div{
+  margin: 0 auto;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+table {
+  margin: 16px;
+}
+
+td{
+  border-block-color: #000000;
+  border-width: 2px;
+}
+
+.sorteado {
+  background-color:#ff00ff;
+}
