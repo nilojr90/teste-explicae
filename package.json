@@ -1,0 +1,8 @@
+{
+  "name": "teste-explicae",
+  "version": "1.0.0",
+  "description": "teste explicae",
+  "main": "index.js",
+  "author": "Nilson Ramos",
+  "license": "MIT"
+}
