@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "teste explicae",
   "main": "index.js",
+  "scripts": {
+    "start": "node ./Backend/index.js"
+  },
   "author": "Nilson Ramos",
   "license": "MIT",
   "dependencies": {
